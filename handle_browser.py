@@ -28,6 +28,9 @@ time.sleep(2)
 browser.back()
 time.sleep(1)
 
+browser.refresh()
+time.sleep(1)
+
 browser.forward()
 time.sleep(2)
 
